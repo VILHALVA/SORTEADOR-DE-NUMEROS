@@ -21,7 +21,7 @@ Esse código representa uma página web que gera um número aleatório entre 0 e
    ```bash
    php -S localhost:8080
    ```
-   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](ttp://localhost:8080).
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
 
 3. **Interagir com o Projeto:**
    1. Ao carregar a página, um número aleatório entre 0 e 100 será gerado e exibido.
